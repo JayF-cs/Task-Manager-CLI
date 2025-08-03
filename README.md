@@ -11,13 +11,6 @@ A command-line task manager with persistent storage.
 - 💾 Automatic saving to JSON file
 - 📊 Clean tabular display
 
-## Installation
-```bash
-git clone https://github.com/yourusername/reponame.git
-cd reponame
-python main.py
-```
-
 ## Usage
 ```
 1. Add new tasks
