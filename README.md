@@ -1,31 +1,39 @@
 # Task Manager CLI
-![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 
-A command-line task tracker with JSON persistence.
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/reponame)
+
+A command-line task manager with persistent storage.
 
 ## Features
-- Add/remove tasks
-- Mark tasks complete
-- Tabulated display
-- Data saved to `data.json`
+- ✅ Add, delete, and complete tasks
+- 📝 Task descriptions and priorities
+- 💾 Automatic saving to JSON file
+- 📊 Clean tabular display
+
+## Installation
+```bash
+git clone https://github.com/yourusername/reponame.git
+cd reponame
+python main.py
+```
 
 ## Usage
-```bash
-python main.py
-<<<<<<< HEAD
 ```
-## Project Structure
-task-manager/
-├── main.py # CLI interface
-├── Task.py # Task class
-├── Taskmanager.py # Core logic
-└── data.json # Saved tasks
+1. Add new tasks
+2. Mark tasks complete
+3. View your task list
+4. Remove tasks
+```
 
-## What I Learned
-- Python OOP principles
-- File I/O with JSON
-- Git version control
-- Tabular data display with `tabulate`
-=======
+## Project Structure
 ```
->>>>>>> f69f3d0affab1a67fc5cdbdfa7f23282fe0ff447
+project/
+├── main.py          # Main program
+├── Task.py          # Task class
+├── Taskmanager.py   # Task management logic
+└── data.json        # Task storage (ignored by git)
+```
+
+## Contributing
+Pull requests welcome! For major changes, please open an issue first.
