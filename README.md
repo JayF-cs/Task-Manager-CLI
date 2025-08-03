@@ -1,7 +1,7 @@
 # Task Manager CLI
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/reponame)
+![GitHub last commit](https://img.shields.io/github/last-commit/JayF-cs/Task-Manager-CLI)
 
 A command-line task manager with persistent storage.
 
